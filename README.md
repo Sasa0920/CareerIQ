@@ -34,8 +34,6 @@ CareerIQ is an AI-powered career assistant that analyzes a user’s resume and p
 ---
 
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit
